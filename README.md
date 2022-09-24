@@ -1,1 +1,1 @@
-# survey1
+# Sample data for testing REST API by JS client
