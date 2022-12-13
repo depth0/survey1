@@ -11,7 +11,7 @@
    "id": 2,
    "title": "Student survey",
    "desc": "Questions for master program students",
-   "nq": 4
+   "nq": 4,
    "qs": ["1", "2", "3", "4"] 
   }
  ],
